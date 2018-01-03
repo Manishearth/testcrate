@@ -1,0 +1,9 @@
+[package]
+name = "sharedlib"
+version = "0.1.0"
+authors = ["Manish Goregaokar <manishsmail@gmail.com>"]
+links = "test"
+build = "build.rs"
+
+
+[dependencies]
